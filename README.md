@@ -1,11 +1,9 @@
-<p align="center">
+222<p align="center">222
   <a href="https://github.com/kettanaito/naming-cheatsheet">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
-123
 # Naming cheatsheet
-123
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
