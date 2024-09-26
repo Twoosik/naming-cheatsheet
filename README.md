@@ -1,7 +1,7 @@
 111<p align="center">111
   <a href="https://github.com/kettanaito/naming-cheatsheet">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
-  </a>
+123  </a>
 </p>
 # Naming cheatsheet
 - [English language](#english-language)
