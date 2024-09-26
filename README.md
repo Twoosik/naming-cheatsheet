@@ -1,4 +1,4 @@
-11<p align="center">111
+1<p align="center">111
   <a href="https://github.com/kettanaito/naming-cheatsheet">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
 123  </a>
